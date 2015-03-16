@@ -5,6 +5,7 @@ The 0x10th ARE party.
 
 ### 参加
 - ymrl
+- naotaco
 
 ### 日程調整
 
