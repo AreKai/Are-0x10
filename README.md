@@ -3,7 +3,7 @@ Are-0x10
 
 The 0x10th ARE party.
 
-[![Build Status](https://travis-ci.org/AreKai/Are-0x10.svg?branch=features%2Fakiroom-attends)](https://travis-ci.org/AreKai/Are-0x10)
+[![Build Status](https://travis-ci.org/AreKai/Are-0x10.svg)](https://travis-ci.org/AreKai/Are-0x10)
 
 ### 参加
 - ymrl
