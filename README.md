@@ -10,6 +10,7 @@ The 0x10th ARE party.
 - akiroom
 - naotaco
 - takumibaba
+- ohnishiakira
 
 ### 日程調整
 
@@ -19,6 +20,7 @@ The 0x10th ARE party.
 |akiroom|x|△|○|△|○|○|○|○|
 |naotaco|○|○|○|○|○|○|○|○|
 |takumibaba|x|○|x|○|○|x|○|○|
+|ohnishiakira|○|○|○|○|○|○|○|○|
 
 #場所候補
 
