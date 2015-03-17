@@ -9,6 +9,7 @@ The 0x10th ARE party.
 - ymrl
 - akiroom
 - naotaco
+- ohnishiakira
 
 ### 日程調整
 
@@ -17,6 +18,7 @@ The 0x10th ARE party.
 |ymrl|○|○|○|○|○|○|○|○|
 |akiroom|x|△|○|△|○|○|○|○|
 |naotaco|○|○|○|○|○|○|○|○|
+|ohnishiakira|○|○|○|○|○|○|○|○|
 
 #場所候補
 
