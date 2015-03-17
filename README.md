@@ -9,6 +9,7 @@ The 0x10th ARE party.
 - ymrl
 - akiroom
 - naotaco
+- takumibaba
 
 ### 日程調整
 
@@ -17,14 +18,14 @@ The 0x10th ARE party.
 |ymrl|○|○|○|○|○|○|○|○|
 |akiroom|x|△|○|△|○|○|○|○|
 |naotaco|○|○|○|○|○|○|○|○|
+|takumibaba|x|○|x|○|○|x|○|○|
 
 #場所候補
 
 - かにー家
 - やまある家
-- ばば家
+- ばば家(非常に狭い)
 
 #参加しろや
 
 @TakumiBaba (修了めでたさ)
-
