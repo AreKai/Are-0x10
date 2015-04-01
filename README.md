@@ -5,6 +5,9 @@ The 0x10th ARE party.
 
 [![Build Status](https://travis-ci.org/AreKai/Are-0x10.svg)](https://travis-ci.org/AreKai/Are-0x10)
 
+- 日程：04/12
+- 場所：ymrl家(暫定)
+
 ### 参加
 - ymrl
 - akiroom
