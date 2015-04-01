@@ -11,6 +11,7 @@ The 0x10th ARE party.
 - naotaco
 - takumibaba
 - ohnishiakira
+- kanny
 
 ### 日程調整
 
@@ -21,6 +22,7 @@ The 0x10th ARE party.
 |naotaco|○|○|○|○|○|○|×|△|
 |takumibaba|x|○|x|○|○|x|○|○|
 |ohnishiakira|○|○|○|○|○|○|○|○|
+|kanny|-|-|△|×|×|△|△|△|
 
 #場所候補
 
